@@ -1,11 +1,11 @@
 
-var express = require("express");
-var parser = require("body-parser");
+const express = require("express");
+const parser = require("body-parser");
 
-var app = express();
+const app = express();
 
 
-var PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8080;
 app.use(parser.urlencoded({ extended: true }));
 app.use(parser.json());
 

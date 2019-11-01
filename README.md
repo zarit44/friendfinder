@@ -1,1 +1,2 @@
 # friendfinder
+The friend finder allows you to answer a few basic questions and then based on your answers, you will find the best match of a friend for you! It is in the style of a survey, each question has a drop down for your options (strongly agree-strongly disagree). Based on your answers, the friend finder will generate the best match and perfect buddy for you, picture and all!
