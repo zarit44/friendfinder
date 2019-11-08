@@ -1,4 +1,4 @@
-const friends = [
+var friends = [
 	
 	{
 		name: "Lisa Simpson",
